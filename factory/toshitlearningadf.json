@@ -1,0 +1,9 @@
+{
+	"name": "toshitlearningadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8ce72bbb-7561-471f-918e-88d9a3c4bc47",
+		"tenantId": "3e2f63da-f02f-4b34-8fcb-106c18eeaecd"
+	}
+}
